@@ -1,0 +1,317 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Top */
+.headbar{
+    background-color: #316dc3;
+    padding: 5px;
+    height: 50px;
+
+}
+.firstdiv{
+    display: inline-block;
+}
+.apps{
+    padding-left: 130px;
+    margin: 2px 5px;
+}
+.apps img{
+    padding: 3px;
+    margin: 0 4px;
+}
+.line{
+    padding-left: 140px;
+}
+.line span{
+    font-size: 14px;
+    color: white;
+}
+.key button{
+    padding: 5px 8px;
+    margin-top: 6px;
+    font-size: 11px;
+    border: none;
+    color: #427900;
+}
+.key{
+    padding-left: 120px;
+}
+
+/* Top-end */
+
+/* second */
+
+  .secdiv{
+      display: inline-flex;
+      justify-content: space-evenly;
+      background-color: #f7f8fa ;
+  }
+  .logo{
+    height: 50px;   
+    padding-right: 250px;
+}
+.home
+{
+    background-color:  #316dc3;
+    color: white;
+}
+.dropbtn {
+    background-color:transparent;
+    color:black;
+    padding: 8px 15px;
+    margin: 12px 0px;
+    font-size: 14px;
+    border: none;
+    border-radius: 30px;
+    font-family: sans-serif;
+  }
+
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 12px;
+  }
+  
+  .dropdown-content a:hover {background-color: #316dc3; color: white;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #316dc3; color: white; transition: 0.4s;}
+  .lid{
+      background-color: #316dc3;
+      color: white;
+      margin-top: 12px;
+  }
+
+  /* Second-end */
+
+  /* Fifth */
+  .p1 h1{
+      color:  #316dc3;
+      font-family: 'Merriweather', serif;
+      font-size: 2rem;
+     
+  }
+  .duc{
+      color: green;
+      font-family: 'Merriweather', serif ;
+      font-size: 2rem;
+      
+  }
+  .intro{
+      font-size:14px ;
+      font-family: 'Open Sans', sans-serif;
+        color: #666666;
+        line-height: 1.9;
+        padding: 1px 120px;
+  }
+/* Fifth-end */
+
+
+/* Sixth */
+  .pics{
+      background-color: rgba(6, 6, 248, 0.842) ;
+      height: 350px;
+  }
+  .ram{
+      text-align: center;
+      display: flex;
+      justify-content: space-evenly;
+    
+      
+  }
+  .eat{
+      margin-top: 100px;
+  }
+  .food{
+    margin-top: 100px;
+  }
+  .family{
+    margin-top: 100px;
+  }
+  .medi{
+    margin-top: 100px;
+  }
+  .cat{
+    margin-top: 100px;
+  }
+/* Sixth-end */
+
+
+/* Seventh */
+  h1{
+      color: white;
+      font-family: 'Merriweather', serif !important;
+      font-size: 3rem;
+  }
+  span{
+      color:#3de453;
+      font-size: 18px;
+      font-family: 'Merriweather', serif;
+  }
+  .same{
+    color: white;
+    font-family: 'Merriweather', serif !important;
+    font-size: 14px;
+    font-weight:600 ;
+  }
+  .what{
+      color: #316dc3;
+      font-size: 2rem;
+
+  }
+  .do{
+      color: green;
+      font-size: 2rem;
+  }
+  .we{
+      margin-top: px;
+  }
+  .ro{
+      box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+      text-align: center;
+      box-sizing: border-box;
+      margin: 10px 15px 30px;
+      padding: 30px 10px !important;
+      line-height: 1.7;
+      font-size: 14px;
+      width: 30%;
+      background-color: white;
+  }
+  .fill{
+      background-color: #f7f8fa ;
+      padding-top: 50px;
+      margin-bottom: 80px;
+  }
+  .jee{
+      color:#316dc3 ;
+      font-size: 16px;
+      font-family: 'Merriweather', serif;
+      text-align: center;
+      font-weight: 600 !important;
+      margin-top: 20px;
+
+  }
+  .line-bottom{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+  }
+  h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #316DC3;
+    font-size: 24px;
+  }
+ .lit h4{
+     font-size: 15px;
+     color: #316dc3;
+     font-weight: bold;
+ 
+ }
+ .melt{
+     margin: 0px 0px 10px;
+     padding: 0px 0px 10px;
+ }
+ .hep{
+     margin:0px 0px 20px ;
+     padding: 15px ;
+     border: 1px solid #eeeeee;
+     background-color: #f7f8fa;
+ }
+ .lit{
+     display: inline-block;
+     margin: 0px 20px;
+     padding: 0px 15px;
+ }
+ .tap{
+     margin: 0px 20px;
+ }
+/* Seventh-end */
+
+
+
+
+
+ /* Eight */
+ .loop{
+    margin-bottom: 250px !important;
+}
+.gall , h2{
+    text-align: center;
+    color: #316DC3 ;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    font-weight: 600 !important;
+}
+.gall{
+    margin-top: 150px;
+}
+.pix{
+    color: #427900 ;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    font-weight: 600 !important;
+}
+ .yoyo img{
+     width: 220px;
+     text-align: center;
+     margin: 20px 2px;
+ }
+ /* Eight-end */
+ 
+ 
+
+
+
+ /* Nine */
+ .end{
+     background-color: rgb(37, 39, 46) !important;
+     padding: 50px 0px;
+ }
+ .tile{
+    color: #fff;
+    margin-bottom: 10px !important;
+    font-family: 'Merriweather', serif;
+    font-weight: bold !important ;
+    line-height: 1.42857143;
+    font-size: 18px;
+}
+ .fas{
+   color: #427900;
+ }
+ .him{
+    color: #bbb;
+ }
+/* Nine-end */
+
+
+/* Ten */
+ .the{
+    background-color: #316DC3;
+}
+.tol{
+    color: white;
+    font-size: 11px;
+}
+/* Ten-end */
